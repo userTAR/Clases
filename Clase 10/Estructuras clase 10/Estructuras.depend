@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1587482630 source:d:\usuario no tocar\desktop\laboral\estructuras\main.c
+	<stdlib.h>
+	"Alumno.h"
+
+1587482791 source:d:\usuario no tocar\desktop\laboral\estructuras\alumno.c
+	"Alumno.h"
+
+1587482615 d:\usuario no tocar\desktop\laboral\estructuras\alumno.h
+	<stdio.h>
+
+1587482791 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 8\estructuras\alumno.c
+	"Alumno.h"
+
+1587482615 c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 8\estructuras\alumno.h
+	<stdio.h>
+
+1587482868 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 8\estructuras\main.c
+	<stdlib.h>
+	"Alumno.h"
+
+1587992437 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 9\estructuras clase 9\main.c
+	<stdlib.h>
+	"Alumno.h"
+
+1587994009 c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 9\estructuras clase 9\alumno.h
+	<stdio.h>
+
+1588107111 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 10\estructuras clase 10\main.c
+	<stdlib.h>
+	"Alumno.h"
+
+1588087418 c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 10\estructuras clase 10\alumno.h
+	<stdio.h>
+
+1588087667 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 10\estructuras clase 10\alumno.c
+	"Alumno.h"
+

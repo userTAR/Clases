@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1588683007 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\estruc.c
+	"estruc.h"
+
+1588681637 c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\estruc.h
+	<stdio.h>
+	<stdlib.h>
+
+1588684773 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\provedor.c
+	"Provedor.h"
+
+1588686370 c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\provedor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588686890 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\producto.c
+	"Producto.h"
+
+1588686360 c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588687629 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto-provedor.h"
+
+1588690761 source:c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\producto-provedor.c
+	"producto-provedor.h"
+
+1588685036 c:\users\familia rivero\desktop\clases virtuales\programacion\clases\clase 12\clase 12\producto-provedor.h
+	"Producto.h"
+	"Provedor.h"
+
